@@ -1,4 +1,4 @@
-# MyFlix
+# MyFlix Video Streaming Services
 
 ## Project Goal
 The goal of this project is to manage MyFlix user subscription plans and provide functionalities to check benefits, current plans, and upgrade plans.
